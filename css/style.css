@@ -68,6 +68,14 @@ hr {
   margin-left: 9px;
 }
 
+.cardlink {
+  color: #fff;
+}
+
+.cardlink:hover {
+  color: #0dcaf0;
+}
+
 ::-webkit-scrollbar {
 	width: 10px;
 	color: #ffffff;
